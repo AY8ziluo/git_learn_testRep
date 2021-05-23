@@ -2,3 +2,5 @@ nijiyuewansui
 nijiyuewudi
 second changed
 hello git !
+git commit -a
+try
