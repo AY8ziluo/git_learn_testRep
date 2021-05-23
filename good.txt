@@ -1,6 +1,9 @@
 nijiyuewansui
 nijiyuewudi
+<<<<<<< HEAD
 second changed
 hello git !
+===================resolve conflict
 git commit -a
 try
+merge branch
